@@ -373,7 +373,7 @@ header("Location:index.php");
 </p>
 </div>
 
-- Oke mungkin segitu saja tutorial dari saya mengenai cara menginsall jupyter notebook nanti jika saya lagi gabut lagi saya akan memberikan tutorial kedua cara menggunakan jupyter notebook.
+- Oke mungkin segitu saja tutorial dari saya mengenai cara Membuat CRUD PHP dengan MYSQL nanti jika saya lagi gabut lagi saya akan memberikan tutorial kedua cara menggunakan PHP, MSQL,dan FREMORK.
 
 - Selesai
 
